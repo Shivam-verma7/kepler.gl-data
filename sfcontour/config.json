@@ -55,7 +55,7 @@
                "size":0.5
             },
             "tooltip":{
-               "enabled":false,
+               "enabled":true,
                "fieldsToShow":{
                   "gm9pbodlq":[
                      "objectid",
